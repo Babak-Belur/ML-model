@@ -6,7 +6,7 @@ The input of this model are:
 - G2 or the recent grade students have after taking some time studying and doing evaluation test, in the scale of 0 - 1.
 - study-time is the rank of how many hours students spent on studying in a week.
 
-    | Rank | study tiem |
+    | Rank | study time |
     | ------ | ------ |
     | 1 | <2 hours/week |
     | 2 | 2-5 hours/week |
@@ -14,7 +14,7 @@ The input of this model are:
     | 4 | >10 hours/week |
 - free-time is the rank of how many hours students didn't spent on doing academic productive activities in a week.
 
-    | Rank | free tiem |
+    | Rank | free time |
     | ------ | ------ |
     | 1 | <2 hours/week |
     | 2 | 2-5 hours/week |
